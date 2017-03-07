@@ -146,7 +146,7 @@ section ul li:before {
 	color: #fec503
 }
 .navbar-brand > img {
-	width: 55px;
+	width: 160px;
 }
 .navbar-default .navbar-collapse {
 	border-color: rgba(255,255,255,.02)
@@ -218,7 +218,7 @@ section ul li:before {
 --------------------*/
 
 header {
-	background-image: url(../images/background/hackathon1.jpg);
+	background-image: url(../images/background/Windy-Ocean.jpg);
 	background-repeat: none;
 	background-attachment: scroll;
 	background-position: center center;
